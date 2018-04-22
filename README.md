@@ -13,5 +13,5 @@
 ```
 
 <div align=center>
-    <img src="./new.gif" width="100%"/>
+    <img src="./new.gif" width="112px" height="192px" />
 </div>
