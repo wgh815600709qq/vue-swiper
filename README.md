@@ -13,5 +13,5 @@
 ```
 
 <div align=center>
-    <img src="./view.gif" width="200" height="200" />
+    <img src="./view.gif" width="100%"/>
 </div>
